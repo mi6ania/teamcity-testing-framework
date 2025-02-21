@@ -1,0 +1,4 @@
+### GET request to Teamcity
+GET http://admin:admin@192.168.1.2:8111/app/rest/buildTypes/id:test_build_type_1#all-projects
+Accept: application/json
+###
